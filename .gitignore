@@ -1,0 +1,14 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore compiled TypeScript files
+dist/
+
+# Ignore editor and IDE-specific files
+.vscode/
+.idea/
+*.log
+
+# Ignore sensitive or private files (e.g., API keys)
+secrets.txt
+config.json
